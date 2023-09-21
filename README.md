@@ -22,7 +22,7 @@ Follow these steps to set up Voice Atlas Game on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/voice-atlas-game.git
+   git clone https://github.com/Rishabh-Tripathi1/voice-atlas-game.git
    ```
 
 2. Change the directory to the project folder:
